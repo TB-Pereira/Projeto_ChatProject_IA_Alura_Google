@@ -37,6 +37,14 @@ Após solicitar essas novas alterações, o ChatProject retornará com o plano d
 3. Execute as Células: Execute as células uma por uma ou todas de uma vez.
 4. Interaja com o ChatProject 1.0: Explore e modifique conforme necessário.
 
+## Próximas Releases
+- Menu com as opções:
+  a) Criar plano macro de um projeto a partir de perguntas
+  b) Criar plano macro de um projeto a partir de um documento pré-preenchido
+  c) Apoio na identificação e mitigação de risco de um projeto já existente
+  d) Apoio na elaboração de status report
+   
+
 
 
 
