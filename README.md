@@ -21,6 +21,8 @@ Ao exeutar ChatProject no Colab, você deverá responder algumas perguntas:
 2. **"Informe qual o escopo você será responsável por gerenciar"** (Pode ser respondido de maneira marcro e objetiva. Essa resposta é importante, pois definirá até aonde você fará a gestão do projeto)
 3. **"Informe qual o prazo ou expectativa esperada para esse projeto"** (Sempre utilize "xx" dias/semanas/meses/anos, pois é com base nessa informação que o Gemini fará a estimativa do cronograma)
 
+   ![Texto Alternativo](https://github.com/TB-Pereira/Projeto_ChatProject_IA_Alura_Google/blob/main/ChatProject_2.PNG?raw=true)
+
 Após responder essas 3 perguntas, o ChatProject 1.0 irá gerar um plano macro de projeto e exibirá na tela, em seguida, ele perguntará se deseja incluir mais algo no escopo ou pedir alguma alteração.
 
 4. **"Você gostaria de informar ou  alterar alguma coisa sobre o escopo do projeto? (Sim/Não)"**
@@ -44,8 +46,5 @@ Após solicitar essas novas alterações, o ChatProject retornará com o plano d
   c) Apoio na identificação e mitigação de risco de um projeto já existente
   d) Apoio na elaboração de status report
    
-
-
-
-
+![Texto Alternativo](https://github.com/TB-Pereira/Projeto_ChatProject_IA_Alura_Google/blob/main/ChatProject.PNG?raw=true)
 
